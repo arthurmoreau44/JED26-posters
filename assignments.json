@@ -6,200 +6,200 @@
     "totalParticipants": 113
   },
   "posters": {
-    "1.0": {
-      "id": "1.0",
+    "1": {
+      "id": "1",
       "title": "...",
       "topic": "Innovative materials",
       "presenter": "Le Pape Thomas"
     },
-    "2.0": {
-      "id": "2.0",
+    "2": {
+      "id": "2",
       "title": "INNOVATIVE MATRIX FOR RADIOACTIVE WASTE CONDITIONING; GEOPOLYMERS AND DIATOMACEOUS EARTH",
       "topic": "Innovative materials;Environment",
       "presenter": "ILERI Ozgur"
     },
-    "3.0": {
-      "id": "3.0",
+    "3": {
+      "id": "3",
       "title": "Lakes and rivers on Titan, a moon of Saturn",
       "topic": "Understanding the Earth and the Universe",
       "presenter": "Parmentier Arlen"
     },
-    "4.0": {
-      "id": "4.0",
+    "4": {
+      "id": "4",
       "title": "...",
       "topic": "Health and Therapy",
       "presenter": "Mouraud Maëlle"
     },
-    "5.0": {
-      "id": "5.0",
+    "5": {
+      "id": "5",
       "title": "Nonequilibrium dynamics of an activated supercooled water nanodrop",
       "topic": "Innovative materials",
       "presenter": "TRUONG Quoc Tuan"
     },
-    "6.0": {
-      "id": "6.0",
+    "6": {
+      "id": "6",
       "title": "...",
       "topic": "Environment",
       "presenter": "JBILOU Chaimae"
     },
-    "7.0": {
-      "id": "7.0",
+    "7": {
+      "id": "7",
       "title": "A theoretical study of Hemiindigoids toward their potent MOST applications",
       "topic": "Innovative materials;Low-carbon technologies",
       "presenter": "Attupuram Joychan Johnrich"
     },
-    "8.0": {
-      "id": "8.0",
+    "8": {
+      "id": "8",
       "title": "Production of protactinium-230 for a U-230/Th-226 generator for targeted alpha therapy: optimization of irradiation conditions and target fabrication",
       "topic": "Health and Therapy",
       "presenter": "El Khoury Perla"
     },
-    "9.0": {
-      "id": "9.0",
+    "9": {
+      "id": "9",
       "title": "Integration of 1D and fast 2D (UF-COSY, NUS-HSQC, NUS-TOCSY) NMR metabolomic and lipidomic datasets applied to mice liver samples",
       "topic": "Health and Therapy",
       "presenter": "Delage Marie"
     },
-    "10.0": {
-      "id": "10.0",
+    "10": {
+      "id": "10",
       "title": "A Redox-Active Molecular Cage as a Platform for Supramolecular Masking and Rotaxane Design",
       "topic": "Innovative materials",
       "presenter": "ALSHAB Malika"
     },
-    "11.0": {
-      "id": "11.0",
+    "11": {
+      "id": "11",
       "title": "Influence of additives on polymer degradation mechanisms and the release of by-products into the environment",
       "topic": "Environment",
       "presenter": "Passin Amandine"
     },
-    "12.0": {
-      "id": "12.0",
+    "12": {
+      "id": "12",
       "title": "Origins of Kasei Valles on Mars: Streamlined islands and fluid dynamics",
       "topic": "Understanding the Earth and the Universe",
       "presenter": "Mahoume Nicolas"
     },
-    "13.0": {
-      "id": "13.0",
+    "13": {
+      "id": "13",
       "title": "...",
       "topic": "Understanding the Earth and the Universe",
       "presenter": "Blanc Evan"
     },
-    "14.0": {
-      "id": "14.0",
+    "14": {
+      "id": "14",
       "title": "...",
       "topic": "Understanding the Earth and the Universe",
       "presenter": "Stanislas Lambert"
     },
-    "15.0": {
-      "id": "15.0",
+    "15": {
+      "id": "15",
       "title": "Control of the microstructure and properties of parts made from preci-pitation-hardened martensitic stainless steel produced by WAAM through optimization of thermal management",
       "topic": "Technologies of the future",
       "presenter": "Maataoui Jailam"
     },
-    "16.0": {
-      "id": "16.0",
+    "16": {
+      "id": "16",
       "title": "Nouvelle extension de chaînes carbonées via réaction d'alkylation sur la diazoacétone-TIPS en vue d'accéder à une plateforme fonctionnelle pour l'obtention d'immunoconjugués ou de PROTAC",
       "topic": "Health and Therapy",
       "presenter": "Girard Jules"
     },
-    "17.0": {
-      "id": "17.0",
+    "17": {
+      "id": "17",
       "title": "Probing the Diffusion of Molecular Dyes by Taylor Dispersion Analysis with a Conventional Spectroscopic Flow Cell Detector",
       "topic": "Health and Therapy;Technologies of the future",
       "presenter": "YARED Charbel"
     },
-    "18.0": {
-      "id": "18.0",
+    "18": {
+      "id": "18",
       "title": "A laser-plasma acceleration approach for innovative medical radioisotope production.",
       "topic": "Health and Therapy",
       "presenter": "Tissot Aymeric"
     },
-    "19.0": {
-      "id": "19.0",
+    "19": {
+      "id": "19",
       "title": "Low Dark Current Organic Photodetectors Enabled by Cyanostilbene-based pi-Conjugated Systems",
       "topic": "Innovative materials;Technologies of the future",
       "presenter": "Roux Benjamin"
     },
-    "20.0": {
-      "id": "20.0",
+    "20": {
+      "id": "20",
       "title": "Reducing Microplastic Pollution with Biodegradable Microcapsules",
       "topic": "Environment",
       "presenter": "Masson M&eacute;lanie"
     },
-    "21.0": {
-      "id": "21.0",
+    "21": {
+      "id": "21",
       "title": "Accelerating Divergent Diastereoselective Synthesis Using Warm-Start Bayesian Optimization in an Autonomous Flow Platform",
       "topic": "Technologies of the future",
       "presenter": "LLOBET Maxime"
     },
-    "22.0": {
-      "id": "22.0",
+    "22": {
+      "id": "22",
       "title": "Liquid Metal Embrittlement in Galvanized Steels for Automotive Applications",
       "topic": "Innovative materials;Technologies of the future",
       "presenter": "ADEOYE dahuda"
     },
-    "23.0": {
-      "id": "23.0",
+    "23": {
+      "id": "23",
       "title": "Extreme event-driven remobilization of trace metals in wetlands: concentration, speciation, isotopic measurements",
       "topic": "Environment",
       "presenter": "Goislot Solène"
     },
-    "24.0": {
-      "id": "24.0",
+    "24": {
+      "id": "24",
       "title": "Light-Frozen Dynamic Covalent Synthesis of Extended Diimide-incorporating Macrocycles",
       "topic": "Innovative materials",
       "presenter": "Picourlat Eléna"
     },
-    "25.0": {
-      "id": "25.0",
+    "25": {
+      "id": "25",
       "title": "Ruthenium speciation through its production process",
       "topic": "Health and Therapy",
       "presenter": "Chevalet Romain"
     },
-    "26.0": {
-      "id": "26.0",
+    "26": {
+      "id": "26",
       "title": "Advanced conducting polymers for enhanced electrochemical energy storage",
       "topic": "Innovative materials",
       "presenter": "COUPPOUSSAMY Sarah"
     },
-    "27.0": {
-      "id": "27.0",
+    "27": {
+      "id": "27",
       "title": "Measurement of beta decay properties of nuclei of interest for nuclear structure and astrophysics, and applications",
       "topic": "Understanding the Earth and the Universe",
       "presenter": "Durand Samuel"
     },
-    "28.0": {
-      "id": "28.0",
+    "28": {
+      "id": "28",
       "title": "Comprehensive analysis of trace polymers and quantification using gas chromatography coupled with mass spectrometry",
       "topic": "Environment",
       "presenter": "Paillard Ronan"
     },
-    "29.0": {
-      "id": "29.0",
+    "29": {
+      "id": "29",
       "title": "New N-type Conjugated Polymers for Organic Electronics by Post-Locking Dynamic Covalent Bonds and Metal-Free Synthesis of N-incorporating Polyimide Nanographene",
       "topic": "Innovative materials",
       "presenter": "LORIOT Lucas J.R."
     },
-    "30.0": {
-      "id": "30.0",
+    "30": {
+      "id": "30",
       "title": "...",
       "topic": "Innovative materials",
       "presenter": "TOURE OUMAR"
     },
-    "31.0": {
-      "id": "31.0",
+    "31": {
+      "id": "31",
       "title": "Geochemical modeling of major and trace elements release from stormwater infiltration basin sediments",
       "topic": "Environment",
       "presenter": "DOYON clélia"
     },
-    "32.0": {
-      "id": "32.0",
+    "32": {
+      "id": "32",
       "title": "Ruthenium speciation through its production process",
       "topic": "Innovative materials",
       "presenter": "Adrien Delanoë"
     },
-    "33.0": {
-      "id": "33.0",
+    "33": {
+      "id": "33",
       "title": "Liquid Xenon Detectors for Preclinical Imaging & Supernova Neutrinos: Pile-Up Classification Strategies for High-Flux data",
       "topic": "Understanding the Earth and the Universe",
       "presenter": "Kaushik Gupta"
@@ -211,10 +211,10 @@
       "name": "Chartrain Coline",
       "topic": "Innovative materials;Technologies of the future",
       "assignedPosters": [
-        "25.0",
-        "22.0",
-        "15.0",
-        "19.0"
+        "25",
+        "22",
+        "15",
+        "19"
       ]
     },
     "2": {
@@ -222,10 +222,10 @@
       "name": "ABED Eya",
       "topic": "Technologies of the future",
       "assignedPosters": [
-        "21.0",
-        "15.0",
-        "12.0",
-        "16.0"
+        "21",
+        "15",
+        "12",
+        "16"
       ]
     },
     "3": {
@@ -233,10 +233,10 @@
       "name": "Le Pape Thomas",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "29.0",
-        "32.0",
-        "25.0",
-        "33.0"
+        "29",
+        "32",
+        "25",
+        "33"
       ]
     },
     "4": {
@@ -244,8 +244,8 @@
       "name": "Moreau Arthur",
       "topic": "Innovative materials;Understanding the Earth and the Universe",
       "assignedPosters": [
-        "6.0",
-        "10.0"
+        "6",
+        "10"
       ]
     },
     "5": {
@@ -253,10 +253,10 @@
       "name": "Belissa Victor",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "14.0",
-        "15.0",
-        "6.0",
-        "13.0"
+        "14",
+        "15",
+        "6",
+        "13"
       ]
     },
     "6": {
@@ -264,10 +264,10 @@
       "name": "LALANNE Marie-Léa",
       "topic": "Health and Therapy",
       "assignedPosters": [
-        "25.0",
-        "2.0",
-        "14.0",
-        "16.0"
+        "25",
+        "2",
+        "14",
+        "16"
       ]
     },
     "7": {
@@ -275,10 +275,10 @@
       "name": "METIVIER Baptiste",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "3.0",
-        "30.0",
-        "14.0",
-        "1.0"
+        "3",
+        "30",
+        "14",
+        "1"
       ]
     },
     "8": {
@@ -286,10 +286,10 @@
       "name": "Rouanet Feli",
       "topic": "Health and Therapy",
       "assignedPosters": [
-        "18.0",
-        "17.0",
-        "20.0",
-        "16.0"
+        "18",
+        "17",
+        "20",
+        "16"
       ]
     },
     "9": {
@@ -297,10 +297,10 @@
       "name": "Cartaud Emeline",
       "topic": "Health and Therapy",
       "assignedPosters": [
-        "2.0",
-        "25.0",
-        "9.0",
-        "32.0"
+        "2",
+        "25",
+        "9",
+        "32"
       ]
     },
     "10": {
@@ -308,8 +308,8 @@
       "name": "ILERI Ozgur",
       "topic": "Innovative materials;Environment",
       "assignedPosters": [
-        "19.0",
-        "17.0"
+        "19",
+        "17"
       ]
     },
     "11": {
@@ -317,10 +317,10 @@
       "name": "LUABANYA John Salem",
       "topic": "Innovative materials;Technologies of the future",
       "assignedPosters": [
-        "32.0",
-        "19.0",
-        "22.0",
-        "13.0"
+        "32",
+        "19",
+        "22",
+        "13"
       ]
     },
     "12": {
@@ -328,10 +328,10 @@
       "name": "Bouzoud Killian",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "3.0",
-        "2.0",
-        "27.0",
-        "29.0"
+        "3",
+        "2",
+        "27",
+        "29"
       ]
     },
     "13": {
@@ -339,10 +339,10 @@
       "name": "An&eacute;zo Bastien",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "13.0",
-        "26.0",
-        "11.0",
-        "5.0"
+        "13",
+        "26",
+        "11",
+        "5"
       ]
     },
     "14": {
@@ -350,10 +350,10 @@
       "name": "Rocheteau Alexia",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "8.0",
-        "5.0",
-        "30.0",
-        "16.0"
+        "8",
+        "5",
+        "30",
+        "16"
       ]
     },
     "15": {
@@ -361,10 +361,10 @@
       "name": "Bourgeais Djessy",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "13.0",
-        "33.0",
-        "9.0",
-        "11.0"
+        "13",
+        "33",
+        "9",
+        "11"
       ]
     },
     "16": {
@@ -372,10 +372,10 @@
       "name": "Andr&eacute; Valentin",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "8.0",
-        "14.0",
-        "13.0",
-        "7.0"
+        "8",
+        "14",
+        "13",
+        "7"
       ]
     },
     "17": {
@@ -383,10 +383,10 @@
       "name": "gong shunfa",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "21.0",
-        "30.0",
-        "32.0",
-        "27.0"
+        "21",
+        "30",
+        "32",
+        "27"
       ]
     },
     "18": {
@@ -394,10 +394,10 @@
       "name": "Campos José",
       "topic": "Health and Therapy",
       "assignedPosters": [
-        "8.0",
-        "25.0",
-        "22.0",
-        "7.0"
+        "8",
+        "25",
+        "22",
+        "7"
       ]
     },
     "19": {
@@ -405,8 +405,8 @@
       "name": "Benabbes-Taarji Hamza",
       "topic": "Low-carbon technologies",
       "assignedPosters": [
-        "1.0",
-        "25.0"
+        "1",
+        "25"
       ]
     },
     "20": {
@@ -414,10 +414,10 @@
       "name": "Parmentier Arlen",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "24.0",
-        "31.0",
-        "33.0",
-        "14.0"
+        "24",
+        "31",
+        "33",
+        "14"
       ]
     },
     "21": {
@@ -425,10 +425,10 @@
       "name": "Pinceloup Mathis",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "13.0",
-        "17.0",
-        "8.0",
-        "12.0"
+        "13",
+        "17",
+        "8",
+        "12"
       ]
     },
     "22": {
@@ -436,8 +436,8 @@
       "name": "Esposito Francesco",
       "topic": "Low-carbon technologies;Technologies of the future",
       "assignedPosters": [
-        "2.0",
-        "5.0"
+        "2",
+        "5"
       ]
     },
     "23": {
@@ -445,10 +445,10 @@
       "name": "Mouraud Maëlle",
       "topic": "Health and Therapy",
       "assignedPosters": [
-        "16.0",
-        "17.0",
-        "8.0",
-        "14.0"
+        "16",
+        "17",
+        "8",
+        "14"
       ]
     },
     "24": {
@@ -456,10 +456,10 @@
       "name": "TRUONG Quoc Tuan",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "10.0",
-        "11.0",
-        "14.0",
-        "24.0"
+        "10",
+        "11",
+        "14",
+        "24"
       ]
     },
     "25": {
@@ -467,10 +467,10 @@
       "name": "FARI&Ntilde;AS Mar&iacute;a",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "7.0",
-        "33.0",
-        "17.0",
-        "27.0"
+        "7",
+        "33",
+        "17",
+        "27"
       ]
     },
     "26": {
@@ -478,10 +478,10 @@
       "name": "Bloch Maxime",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "29.0",
-        "28.0",
-        "27.0",
-        "12.0"
+        "29",
+        "28",
+        "27",
+        "12"
       ]
     },
     "27": {
@@ -489,10 +489,10 @@
       "name": "FLORENT Axel",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "4.0",
-        "3.0",
-        "1.0",
-        "24.0"
+        "4",
+        "3",
+        "1",
+        "24"
       ]
     },
     "28": {
@@ -500,10 +500,10 @@
       "name": "JBILOU Chaimae",
       "topic": "Environment",
       "assignedPosters": [
-        "17.0",
-        "31.0",
-        "8.0",
-        "28.0"
+        "17",
+        "31",
+        "8",
+        "28"
       ]
     },
     "29": {
@@ -511,10 +511,10 @@
       "name": "Barreau Emilie",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "19.0",
-        "33.0",
-        "14.0",
-        "18.0"
+        "19",
+        "33",
+        "14",
+        "18"
       ]
     },
     "30": {
@@ -522,8 +522,8 @@
       "name": "Attupuram Joychan Johnrich",
       "topic": "Innovative materials;Low-carbon technologies",
       "assignedPosters": [
-        "9.0",
-        "1.0"
+        "9",
+        "1"
       ]
     },
     "31": {
@@ -531,8 +531,8 @@
       "name": "Hallegouet Iris",
       "topic": "Understanding the Earth and the Universe;Technologies of the future",
       "assignedPosters": [
-        "9.0",
-        "6.0"
+        "9",
+        "6"
       ]
     },
     "32": {
@@ -540,10 +540,10 @@
       "name": "El Khoury Perla",
       "topic": "Health and Therapy",
       "assignedPosters": [
-        "31.0",
-        "26.0",
-        "18.0",
-        "4.0"
+        "31",
+        "26",
+        "18",
+        "4"
       ]
     },
     "33": {
@@ -551,10 +551,10 @@
       "name": "Delage Marie",
       "topic": "Health and Therapy",
       "assignedPosters": [
-        "23.0",
-        "4.0",
-        "18.0",
-        "28.0"
+        "23",
+        "4",
+        "18",
+        "28"
       ]
     },
     "34": {
@@ -562,10 +562,10 @@
       "name": "Aflak Rita",
       "topic": "Health and Therapy",
       "assignedPosters": [
-        "28.0",
-        "10.0",
-        "18.0",
-        "9.0"
+        "28",
+        "10",
+        "18",
+        "9"
       ]
     },
     "35": {
@@ -573,10 +573,10 @@
       "name": "ALSHAB Malika",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "12.0",
-        "5.0",
-        "30.0",
-        "6.0"
+        "12",
+        "5",
+        "30",
+        "6"
       ]
     },
     "36": {
@@ -584,10 +584,10 @@
       "name": "Aguilar Guimaraes Paula",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "3.0",
-        "1.0",
-        "5.0",
-        "2.0"
+        "3",
+        "1",
+        "5",
+        "2"
       ]
     },
     "37": {
@@ -595,10 +595,10 @@
       "name": "Le Floch L&eacute;na",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "2.0",
-        "6.0",
-        "13.0",
-        "12.0"
+        "2",
+        "6",
+        "13",
+        "12"
       ]
     },
     "38": {
@@ -606,10 +606,10 @@
       "name": "Auger Nicolas",
       "topic": "Health and Therapy",
       "assignedPosters": [
-        "20.0",
-        "23.0",
-        "4.0",
-        "18.0"
+        "20",
+        "23",
+        "4",
+        "18"
       ]
     },
     "39": {
@@ -617,10 +617,10 @@
       "name": "R&eacute;gheasse Armand",
       "topic": "Technologies of the future",
       "assignedPosters": [
-        "24.0",
-        "21.0",
-        "15.0",
-        "28.0"
+        "24",
+        "21",
+        "15",
+        "28"
       ]
     },
     "40": {
@@ -628,8 +628,8 @@
       "name": "Adenot Ma&euml;line",
       "topic": "Low-carbon technologies",
       "assignedPosters": [
-        "8.0",
-        "18.0"
+        "8",
+        "18"
       ]
     },
     "41": {
@@ -637,10 +637,10 @@
       "name": "Passin Amandine",
       "topic": "Environment",
       "assignedPosters": [
-        "26.0",
-        "31.0",
-        "28.0",
-        "27.0"
+        "26",
+        "31",
+        "28",
+        "27"
       ]
     },
     "42": {
@@ -648,10 +648,10 @@
       "name": "Ramsi Yohann",
       "topic": "Technologies of the future",
       "assignedPosters": [
-        "1.0",
-        "21.0",
-        "15.0",
-        "25.0"
+        "1",
+        "21",
+        "15",
+        "25"
       ]
     },
     "43": {
@@ -659,10 +659,10 @@
       "name": "Mahoume Nicolas",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "17.0",
-        "3.0",
-        "13.0",
-        "10.0"
+        "17",
+        "3",
+        "13",
+        "10"
       ]
     },
     "44": {
@@ -670,10 +670,10 @@
       "name": "Blanc Evan",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "4.0",
-        "16.0",
-        "12.0",
-        "3.0"
+        "4",
+        "16",
+        "12",
+        "3"
       ]
     },
     "45": {
@@ -681,10 +681,10 @@
       "name": "Stanislas Lambert",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "27.0",
-        "33.0",
-        "7.0",
-        "31.0"
+        "27",
+        "33",
+        "7",
+        "31"
       ]
     },
     "46": {
@@ -692,10 +692,10 @@
       "name": "PHILIPPE Morgane",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "32.0",
-        "6.0",
-        "4.0",
-        "29.0"
+        "32",
+        "6",
+        "4",
+        "29"
       ]
     },
     "47": {
@@ -703,10 +703,10 @@
       "name": "GRIB Lamia",
       "topic": "Technologies of the future",
       "assignedPosters": [
-        "11.0",
-        "15.0",
-        "21.0",
-        "3.0"
+        "11",
+        "15",
+        "21",
+        "3"
       ]
     },
     "48": {
@@ -714,8 +714,8 @@
       "name": "LE QUESTEL Jean-Yves",
       "topic": "Health and Therapy;Environment",
       "assignedPosters": [
-        "11.0",
-        "10.0"
+        "11",
+        "10"
       ]
     },
     "49": {
@@ -723,10 +723,10 @@
       "name": "Landebrit Louisa",
       "topic": "Environment",
       "assignedPosters": [
-        "6.0",
-        "8.0",
-        "14.0",
-        "23.0"
+        "6",
+        "8",
+        "14",
+        "23"
       ]
     },
     "50": {
@@ -734,10 +734,10 @@
       "name": "Yazbeck Celine",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "26.0",
-        "11.0",
-        "7.0",
-        "30.0"
+        "26",
+        "11",
+        "7",
+        "30"
       ]
     },
     "51": {
@@ -745,10 +745,10 @@
       "name": "CHAIZE Clara",
       "topic": "Health and Therapy",
       "assignedPosters": [
-        "7.0",
-        "9.0",
-        "8.0",
-        "31.0"
+        "7",
+        "9",
+        "8",
+        "31"
       ]
     },
     "52": {
@@ -756,10 +756,10 @@
       "name": "Yusuf Ismail",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "18.0",
-        "30.0",
-        "17.0",
-        "1.0"
+        "18",
+        "30",
+        "17",
+        "1"
       ]
     },
     "53": {
@@ -767,10 +767,10 @@
       "name": "GUICHETEAU Fanny",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "33.0",
-        "27.0",
-        "24.0",
-        "26.0"
+        "33",
+        "27",
+        "24",
+        "26"
       ]
     },
     "54": {
@@ -778,10 +778,10 @@
       "name": "Mazurier Cassilda",
       "topic": "Health and Therapy",
       "assignedPosters": [
-        "2.0",
-        "18.0",
-        "9.0",
-        "11.0"
+        "2",
+        "18",
+        "9",
+        "11"
       ]
     },
     "55": {
@@ -789,9 +789,9 @@
       "name": "Maataoui Jailam",
       "topic": "Technologies of the future",
       "assignedPosters": [
-        "21.0",
-        "11.0",
-        "18.0"
+        "21",
+        "11",
+        "18"
       ]
     },
     "56": {
@@ -799,10 +799,10 @@
       "name": "Girard Jules",
       "topic": "Health and Therapy",
       "assignedPosters": [
-        "9.0",
-        "20.0",
-        "6.0",
-        "25.0"
+        "9",
+        "20",
+        "6",
+        "25"
       ]
     },
     "57": {
@@ -810,8 +810,8 @@
       "name": "YARED Charbel",
       "topic": "Health and Therapy;Technologies of the future",
       "assignedPosters": [
-        "20.0",
-        "16.0"
+        "20",
+        "16"
       ]
     },
     "58": {
@@ -819,10 +819,10 @@
       "name": "Cruz Tenjhay Karina",
       "topic": "Technologies of the future",
       "assignedPosters": [
-        "1.0",
-        "23.0",
-        "15.0",
-        "21.0"
+        "1",
+        "23",
+        "15",
+        "21"
       ]
     },
     "59": {
@@ -830,8 +830,8 @@
       "name": "JAUNEAU Pierrick",
       "topic": "Innovative materials;Health and Therapy",
       "assignedPosters": [
-        "23.0",
-        "21.0"
+        "23",
+        "21"
       ]
     },
     "60": {
@@ -839,10 +839,10 @@
       "name": "LUZHNIKOVA Svetlana",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "1.0",
-        "8.0",
-        "11.0",
-        "26.0"
+        "1",
+        "8",
+        "11",
+        "26"
       ]
     },
     "61": {
@@ -850,10 +850,10 @@
       "name": "Keklik Mehtap",
       "topic": "Innovative materials;Technologies of the future",
       "assignedPosters": [
-        "22.0",
-        "29.0",
-        "5.0",
-        "19.0"
+        "22",
+        "29",
+        "5",
+        "19"
       ]
     },
     "62": {
@@ -861,10 +861,10 @@
       "name": "Oliveira Amorim Dargilan",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "10.0",
-        "12.0",
-        "27.0",
-        "18.0"
+        "10",
+        "12",
+        "27",
+        "18"
       ]
     },
     "63": {
@@ -872,10 +872,10 @@
       "name": "PAPALETSIOU Alexandra",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "20.0",
-        "29.0",
-        "26.0",
-        "6.0"
+        "20",
+        "29",
+        "26",
+        "6"
       ]
     },
     "64": {
@@ -883,10 +883,10 @@
       "name": "Castellan Giorgia",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "29.0",
-        "1.0",
-        "13.0",
-        "2.0"
+        "29",
+        "1",
+        "13",
+        "2"
       ]
     },
     "65": {
@@ -894,10 +894,10 @@
       "name": "Pashabeygi Anita",
       "topic": "Innovative materials;Technologies of the future",
       "assignedPosters": [
-        "4.0",
-        "7.0",
-        "22.0",
-        "19.0"
+        "4",
+        "7",
+        "22",
+        "19"
       ]
     },
     "66": {
@@ -905,10 +905,10 @@
       "name": "Tissot Aymeric",
       "topic": "Health and Therapy",
       "assignedPosters": [
-        "4.0",
-        "5.0",
-        "14.0",
-        "25.0"
+        "4",
+        "5",
+        "14",
+        "25"
       ]
     },
     "67": {
@@ -916,9 +916,9 @@
       "name": "Roux Benjamin",
       "topic": "Innovative materials;Technologies of the future",
       "assignedPosters": [
-        "22.0",
-        "3.0",
-        "13.0"
+        "22",
+        "3",
+        "13"
       ]
     },
     "68": {
@@ -926,10 +926,10 @@
       "name": "Seigneur L&eacute;o",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "30.0",
-        "4.0",
-        "7.0",
-        "24.0"
+        "30",
+        "4",
+        "7",
+        "24"
       ]
     },
     "69": {
@@ -937,10 +937,10 @@
       "name": "Lagrève Dorian",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "10.0",
-        "31.0",
-        "9.0",
-        "32.0"
+        "10",
+        "31",
+        "9",
+        "32"
       ]
     },
     "70": {
@@ -948,10 +948,10 @@
       "name": "GENIN Emma",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "4.0",
-        "12.0",
-        "32.0",
-        "27.0"
+        "4",
+        "12",
+        "32",
+        "27"
       ]
     },
     "71": {
@@ -959,10 +959,10 @@
       "name": "Masson M&eacute;lanie",
       "topic": "Environment",
       "assignedPosters": [
-        "11.0",
-        "15.0",
-        "28.0",
-        "18.0"
+        "11",
+        "15",
+        "28",
+        "18"
       ]
     },
     "72": {
@@ -970,10 +970,10 @@
       "name": "BARREAU Youenn",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "30.0",
-        "14.0",
-        "31.0",
-        "32.0"
+        "30",
+        "14",
+        "31",
+        "32"
       ]
     },
     "73": {
@@ -981,9 +981,9 @@
       "name": "LLOBET Maxime",
       "topic": "Technologies of the future",
       "assignedPosters": [
-        "16.0",
-        "15.0",
-        "19.0"
+        "16",
+        "15",
+        "19"
       ]
     },
     "74": {
@@ -991,9 +991,9 @@
       "name": "Gauvreau Julien",
       "topic": "Health and Therapy;Technologies of the future",
       "assignedPosters": [
-        "27.0",
-        "17.0",
-        "29.0"
+        "27",
+        "17",
+        "29"
       ]
     },
     "75": {
@@ -1001,9 +1001,9 @@
       "name": "ADEOYE dahuda",
       "topic": "Innovative materials;Technologies of the future",
       "assignedPosters": [
-        "33.0",
-        "2.0",
-        "19.0"
+        "33",
+        "2",
+        "19"
       ]
     },
     "76": {
@@ -1011,10 +1011,10 @@
       "name": "Goislot Solène",
       "topic": "Environment",
       "assignedPosters": [
-        "20.0",
-        "25.0",
-        "26.0",
-        "6.0"
+        "20",
+        "25",
+        "26",
+        "6"
       ]
     },
     "77": {
@@ -1022,10 +1022,10 @@
       "name": "Picourlat Eléna",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "32.0",
-        "12.0",
-        "26.0",
-        "21.0"
+        "32",
+        "12",
+        "26",
+        "21"
       ]
     },
     "78": {
@@ -1033,10 +1033,10 @@
       "name": "Echate Hajar",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "20.0",
-        "5.0",
-        "10.0",
-        "3.0"
+        "20",
+        "5",
+        "10",
+        "3"
       ]
     },
     "79": {
@@ -1044,10 +1044,10 @@
       "name": "RAQUIN Arthur",
       "topic": "Innovative materials;Technologies of the future",
       "assignedPosters": [
-        "19.0",
-        "22.0",
-        "30.0",
-        "31.0"
+        "19",
+        "22",
+        "30",
+        "31"
       ]
     },
     "80": {
@@ -1055,10 +1055,10 @@
       "name": "EL KHOUEIRY Jean",
       "topic": "Environment",
       "assignedPosters": [
-        "9.0",
-        "6.0",
-        "20.0",
-        "7.0"
+        "9",
+        "6",
+        "20",
+        "7"
       ]
     },
     "81": {
@@ -1066,10 +1066,10 @@
       "name": "Chevalet Romain",
       "topic": "Health and Therapy",
       "assignedPosters": [
-        "18.0",
-        "11.0",
-        "9.0",
-        "2.0"
+        "18",
+        "11",
+        "9",
+        "2"
       ]
     },
     "82": {
@@ -1077,10 +1077,10 @@
       "name": "JACK Zoë",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "13.0",
-        "27.0",
-        "16.0",
-        "17.0"
+        "13",
+        "27",
+        "16",
+        "17"
       ]
     },
     "83": {
@@ -1088,10 +1088,10 @@
       "name": "COUPPOUSSAMY Sarah",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "5.0",
-        "13.0",
-        "33.0",
-        "1.0"
+        "5",
+        "13",
+        "33",
+        "1"
       ]
     },
     "84": {
@@ -1099,10 +1099,10 @@
       "name": "BEGHIN Nathan",
       "topic": "Innovative materials;Technologies of the future",
       "assignedPosters": [
-        "22.0",
-        "23.0",
-        "19.0",
-        "4.0"
+        "22",
+        "23",
+        "19",
+        "4"
       ]
     },
     "85": {
@@ -1110,10 +1110,10 @@
       "name": "Ciborowski Bartosz",
       "topic": "Innovative materials;Technologies of the future",
       "assignedPosters": [
-        "19.0",
-        "22.0",
-        "23.0",
-        "20.0"
+        "19",
+        "22",
+        "23",
+        "20"
       ]
     },
     "86": {
@@ -1121,10 +1121,10 @@
       "name": "Troger Karl",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "10.0",
-        "8.0",
-        "5.0",
-        "3.0"
+        "10",
+        "8",
+        "5",
+        "3"
       ]
     },
     "87": {
@@ -1132,10 +1132,10 @@
       "name": "BRABECH Lahcen",
       "topic": "Technologies of the future",
       "assignedPosters": [
-        "15.0",
-        "21.0",
-        "9.0",
-        "10.0"
+        "15",
+        "21",
+        "9",
+        "10"
       ]
     },
     "88": {
@@ -1143,10 +1143,10 @@
       "name": "PAPIN L&eacute;o",
       "topic": "Innovative materials;Technologies of the future",
       "assignedPosters": [
-        "22.0",
-        "8.0",
-        "19.0",
-        "23.0"
+        "22",
+        "8",
+        "19",
+        "23"
       ]
     },
     "89": {
@@ -1154,10 +1154,10 @@
       "name": "Durand Samuel",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "26.0",
-        "3.0",
-        "12.0",
-        "7.0"
+        "26",
+        "3",
+        "12",
+        "7"
       ]
     },
     "90": {
@@ -1165,10 +1165,10 @@
       "name": "Paillard Ronan",
       "topic": "Environment",
       "assignedPosters": [
-        "16.0",
-        "23.0",
-        "22.0",
-        "31.0"
+        "16",
+        "23",
+        "22",
+        "31"
       ]
     },
     "91": {
@@ -1176,8 +1176,8 @@
       "name": "Bouvier Nolwenn",
       "topic": "Low-carbon technologies",
       "assignedPosters": [
-        "4.0",
-        "2.0"
+        "4",
+        "2"
       ]
     },
     "92": {
@@ -1185,10 +1185,10 @@
       "name": "DELENDA Anouar Akacha",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "33.0",
-        "4.0",
-        "32.0",
-        "29.0"
+        "33",
+        "4",
+        "32",
+        "29"
       ]
     },
     "93": {
@@ -1196,10 +1196,10 @@
       "name": "Morin Manon",
       "topic": "Technologies of the future",
       "assignedPosters": [
-        "11.0",
-        "15.0",
-        "21.0",
-        "31.0"
+        "11",
+        "15",
+        "21",
+        "31"
       ]
     },
     "94": {
@@ -1207,10 +1207,10 @@
       "name": "Benzoni Pietro",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "22.0",
-        "33.0",
-        "28.0",
-        "13.0"
+        "22",
+        "33",
+        "28",
+        "13"
       ]
     },
     "95": {
@@ -1218,10 +1218,10 @@
       "name": "Haryouli Gabin",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "28.0",
-        "7.0",
-        "32.0",
-        "24.0"
+        "28",
+        "7",
+        "32",
+        "24"
       ]
     },
     "96": {
@@ -1229,10 +1229,10 @@
       "name": "Vazifehdar Mina",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "33.0",
-        "25.0",
-        "2.0",
-        "13.0"
+        "33",
+        "25",
+        "2",
+        "13"
       ]
     },
     "97": {
@@ -1240,8 +1240,8 @@
       "name": "PUTRA Feryantama",
       "topic": "Innovative materials;Low-carbon technologies;Environment",
       "assignedPosters": [
-        "23.0",
-        "28.0"
+        "23",
+        "28"
       ]
     },
     "98": {
@@ -1249,10 +1249,10 @@
       "name": "LORIOT Lucas J.R.",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "16.0",
-        "30.0",
-        "24.0",
-        "7.0"
+        "16",
+        "30",
+        "24",
+        "7"
       ]
     },
     "99": {
@@ -1260,10 +1260,10 @@
       "name": "SURESH SINDOORA",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "31.0",
-        "28.0",
-        "24.0",
-        "30.0"
+        "31",
+        "28",
+        "24",
+        "30"
       ]
     },
     "100": {
@@ -1271,10 +1271,10 @@
       "name": "Chaland Emma",
       "topic": "Environment",
       "assignedPosters": [
-        "16.0",
-        "23.0",
-        "21.0",
-        "20.0"
+        "16",
+        "23",
+        "21",
+        "20"
       ]
     },
     "101": {
@@ -1282,10 +1282,10 @@
       "name": "Saleh Mohammad",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "7.0",
-        "10.0",
-        "17.0",
-        "26.0"
+        "7",
+        "10",
+        "17",
+        "26"
       ]
     },
     "102": {
@@ -1293,8 +1293,8 @@
       "name": "BERTHO Lucien",
       "topic": "Low-carbon technologies",
       "assignedPosters": [
-        "17.0",
-        "15.0"
+        "17",
+        "15"
       ]
     },
     "103": {
@@ -1302,10 +1302,10 @@
       "name": "TOURE OUMAR",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "14.0",
-        "29.0",
-        "24.0",
-        "12.0"
+        "14",
+        "29",
+        "24",
+        "12"
       ]
     },
     "104": {
@@ -1313,10 +1313,10 @@
       "name": "Sophia BLANCO-RINCON",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "9.0",
-        "10.0",
-        "1.0",
-        "20.0"
+        "9",
+        "10",
+        "1",
+        "20"
       ]
     },
     "105": {
@@ -1324,8 +1324,8 @@
       "name": "Guibert Arnaud",
       "topic": "Low-carbon technologies",
       "assignedPosters": [
-        "30.0",
-        "1.0"
+        "30",
+        "1"
       ]
     },
     "106": {
@@ -1333,8 +1333,8 @@
       "name": "LEGRET Th&eacute;o",
       "topic": "Low-carbon technologies",
       "assignedPosters": [
-        "32.0",
-        "28.0"
+        "32",
+        "28"
       ]
     },
     "107": {
@@ -1342,10 +1342,10 @@
       "name": "Ponroy Léa",
       "topic": "Health and Therapy",
       "assignedPosters": [
-        "3.0",
-        "25.0",
-        "6.0",
-        "8.0"
+        "3",
+        "25",
+        "6",
+        "8"
       ]
     },
     "108": {
@@ -1353,10 +1353,10 @@
       "name": "COUSSEAU Maxime",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "33.0",
-        "26.0",
-        "10.0",
-        "12.0"
+        "33",
+        "26",
+        "10",
+        "12"
       ]
     },
     "109": {
@@ -1364,10 +1364,10 @@
       "name": "Harb Jana",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "21.0",
-        "20.0",
-        "5.0",
-        "29.0"
+        "21",
+        "20",
+        "5",
+        "29"
       ]
     },
     "110": {
@@ -1375,8 +1375,8 @@
       "name": "Multrier Jean-Loup",
       "topic": "Low-carbon technologies",
       "assignedPosters": [
-        "11.0",
-        "17.0"
+        "11",
+        "17"
       ]
     },
     "111": {
@@ -1384,10 +1384,10 @@
       "name": "DOYON clélia",
       "topic": "Environment",
       "assignedPosters": [
-        "20.0",
-        "24.0",
-        "23.0",
-        "16.0"
+        "20",
+        "24",
+        "23",
+        "16"
       ]
     },
     "112": {
@@ -1395,10 +1395,10 @@
       "name": "Adrien Delanoë",
       "topic": "Innovative materials",
       "assignedPosters": [
-        "5.0",
-        "6.0",
-        "27.0",
-        "24.0"
+        "5",
+        "6",
+        "27",
+        "24"
       ]
     },
     "113": {
@@ -1406,10 +1406,10 @@
       "name": "Kaushik Gupta",
       "topic": "Understanding the Earth and the Universe",
       "assignedPosters": [
-        "5.0",
-        "2.0",
-        "3.0",
-        "27.0"
+        "5",
+        "2",
+        "3",
+        "27"
       ]
     }
   }

@@ -37,6 +37,7 @@
     .topic-1 { background: #1a2e1a; color: #6ee7b7; } .topic-2 { background: #1e1a2e; color: #818cf8; }
     .topic-3 { background: #2e1a1a; color: #f87171; } .topic-4 { background: #2e2a1a; color: #fbbf24; }
     .topic-5 { background: #1a2a2e; color: #38bdf8; }
+    .topic-6 { background: #2a1a2e; color: #e879f9; }
 
     .section-label { font-size: 11px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin-bottom: 14px; }
     .progress-bar-wrap { background: var(--surface2); border-radius: 100px; height: 4px; margin-bottom: 28px; overflow: hidden; }
@@ -140,7 +141,14 @@ const DATA_URL = "assignments.json";
 // ══════════════════════════════════════════════
 
 let ratings = {}, data = null, participant = null, assignedPosters = [];
-const topicColors = ["topic-1","topic-2","topic-3","topic-4","topic-5"];
+const topicColors = {
+  "Innovative materials":                      "topic-1",
+  "Low-carbon technologies":                   "topic-2",
+  "Health and therapy":                        "topic-3",
+  "Understanding the Earth and the Universe":  "topic-4",
+  "Technologies of the future":               "topic-5",
+  "Environment":                               "topic-6",
+};
 
 // Récupère l'ID participant depuis l'URL une seule fois
 const PARTICIPANT_ID = new URLSearchParams(window.location.search).get("id");
@@ -209,7 +217,7 @@ function renderParticipant() {
   document.getElementById("participant-name").textContent = participant.name;
   const badge = document.getElementById("topic-badge");
   badge.textContent = "Topic " + participant.topic;
-  badge.className = "topic-badge " + (topicColors[parseInt(participant.topic) - 1] || "topic-1");
+  badge.className = "topic-badge " + (topicColors[participant.topic] || "topic-1");
 }
 
 function renderPosters() {
