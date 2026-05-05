@@ -14,13 +14,7 @@
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; padding: 24px 16px 60px; }
     header { text-align: center; padding: 32px 0 40px; }
-    .logo-chip {
-      display: inline-flex; align-items: center; gap: 8px;
-      background: var(--surface2); border: 1px solid #2e3350;
-      border-radius: 100px; padding: 6px 16px;
-      font-size: 12px; letter-spacing: .08em; text-transform: uppercase;
-      color: var(--accent); margin-bottom: 20px;
-    }
+    .logo-chip { display: inline-flex; align-items: center; gap: 8px; background: var(--surface2); border: 1px solid #2e3350; border-radius: 100px; padding: 6px 16px; font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); margin-bottom: 20px; }
     .logo-chip span { width: 6px; height: 6px; background: var(--accent); border-radius: 50%; display: inline-block; }
     h1 { font-family: 'Syne', sans-serif; font-size: clamp(26px, 6vw, 40px); font-weight: 800; line-height: 1.1; letter-spacing: -.02em; }
     h1 em { font-style: normal; background: linear-gradient(135deg, var(--accent), var(--accent2)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
@@ -60,21 +54,24 @@
     .rating-area { padding: 16px 20px 18px; border-top: 1px solid #2e3350; }
     .rating-label { font-size: 12px; color: var(--muted); margin-bottom: 10px; }
     .stars { display: flex; gap: 8px; }
-    .star-btn { background: none; border: 2px solid #2e3350; border-radius: 10px; width: 44px; height: 44px; display: flex; align-items: center; justify-content: center; font-size: 20px; cursor: pointer; transition: all .15s; color: var(--muted); }
-    .star-btn:hover, .star-btn.active { border-color: var(--accent); background: rgba(110,231,183,.1); color: var(--accent); transform: scale(1.08); }
+    .star-btn { background: none; border: 2px solid #2e3350; border-radius: 10px; width: 52px; height: 52px; display: flex; align-items: center; justify-content: center; font-size: 18px; font-weight: 700; cursor: pointer; transition: all .15s; color: var(--muted); font-family: 'Syne', sans-serif; }
+    .star-btn:hover { border-color: var(--accent); background: rgba(110,231,183,.1); color: var(--accent); transform: scale(1.08); }
+    .star-btn.active { border-color: var(--accent); background: var(--accent); color: var(--bg); transform: scale(1.05); }
     .comment-input { margin-top: 12px; width: 100%; background: var(--surface2); border: 1px solid #2e3350; border-radius: 10px; padding: 10px 14px; color: var(--text); font-family: 'DM Sans', sans-serif; font-size: 13px; resize: none; transition: border-color .2s; min-height: 64px; }
     .comment-input:focus { outline: none; border-color: var(--accent2); }
     .comment-input::placeholder { color: var(--muted); }
-    .save-btn { margin-top: 10px; width: 100%; padding: 11px; border-radius: 10px; border: none; background: linear-gradient(135deg, var(--accent), var(--accent2)); color: var(--bg); font-family: 'Syne', sans-serif; font-size: 14px; font-weight: 700; cursor: pointer; transition: opacity .2s, transform .1s; }
-    .save-btn:hover { opacity: .9; } .save-btn:active { transform: scale(.98); } .save-btn:disabled { opacity: .4; cursor: not-allowed; }
-    .saved-chip { display: none; margin-top: 8px; text-align: center; font-size: 12px; color: var(--accent); }
-    .saved-chip.visible { display: block; }
+
+    .save-btn { margin-top: 12px; width: 100%; padding: 13px; border-radius: 10px; border: 2px solid var(--accent); background: transparent; color: var(--accent); font-family: 'Syne', sans-serif; font-size: 14px; font-weight: 700; cursor: pointer; transition: all .2s; }
+    .save-btn:hover:not(:disabled) { background: var(--accent); color: var(--bg); }
+    .save-btn.saved { background: var(--accent); color: var(--bg); border-color: var(--accent); opacity: 1; cursor: default; }
+    .save-btn:disabled:not(.saved) { opacity: .35; cursor: not-allowed; border-color: var(--muted); color: var(--muted); }
 
     #submit-section { margin-top: 12px; background: var(--surface); border: 1px solid #2e3350; border-radius: var(--radius); padding: 24px; text-align: center; }
     .submit-title { font-family: 'Syne', sans-serif; font-size: 18px; font-weight: 800; margin-bottom: 8px; }
     .submit-sub { color: var(--muted); font-size: 13px; margin-bottom: 20px; line-height: 1.5; }
     .submit-main-btn { width: 100%; padding: 16px; border-radius: 12px; border: none; background: linear-gradient(135deg, var(--accent), var(--accent2)); color: var(--bg); font-family: 'Syne', sans-serif; font-size: 16px; font-weight: 800; cursor: pointer; transition: opacity .2s; }
-    .submit-main-btn:hover { opacity: .9; } .submit-main-btn:disabled { opacity: .35; cursor: not-allowed; }
+    .submit-main-btn:hover:not(:disabled) { opacity: .9; }
+    .submit-main-btn:disabled { opacity: .35; cursor: not-allowed; }
 
     #sending-overlay { display: none; position: fixed; inset: 0; background: rgba(15,17,23,.85); backdrop-filter: blur(4px); z-index: 100; align-items: center; justify-content: center; flex-direction: column; gap: 16px; }
     #sending-overlay.active { display: flex; }
@@ -85,6 +82,8 @@
     .done-icon { font-size: 64px; margin-bottom: 20px; }
     .done-title { font-family: 'Syne', sans-serif; font-size: 28px; font-weight: 800; margin-bottom: 10px; }
     .done-sub { color: var(--muted); font-size: 15px; line-height: 1.6; }
+
+    .hint { font-size: 11px; color: var(--muted); margin-top: 6px; text-align: center; }
   </style>
 </head>
 <body>
@@ -97,7 +96,7 @@
 <header>
   <div class="logo-chip"><span></span> Évaluation Posters</div>
   <h1>Vos <em>4 posters</em><br>à évaluer</h1>
-  <p class="subtitle">Scannez, visitez, notez — merci pour votre participation !</p>
+  <p class="subtitle">Cliquez une note, enregistrez, puis soumettez !</p>
 </header>
 
 <div id="state-screen">
@@ -122,7 +121,7 @@
   <div id="posters-list"></div>
   <div id="submit-section">
     <div class="submit-title">Tout noté ? 🎉</div>
-    <p class="submit-sub">Vérifiez que vos 4 notes sont enregistrées,<br>puis soumettez vos évaluations.</p>
+    <p class="submit-sub">Tous vos posters sont enregistrés.<br>Cliquez pour envoyer vos évaluations.</p>
     <button class="submit-main-btn" id="submit-btn" disabled onclick="submitAll()">Soumettre mes évaluations</button>
   </div>
   <div id="done-screen">
@@ -136,48 +135,67 @@
 // ══════════════════════════════════════════════
 // ⚙️  CONFIGURATION
 // ══════════════════════════════════════════════
-const API_URL  = "web-production-c2363.up.railway.app"; // ← à remplacer après déploiement
+const API_URL  = "https://web-production-c2363.up.railway.app";
 const DATA_URL = "assignments.json";
 // ══════════════════════════════════════════════
 
 let ratings = {}, data = null, participant = null, assignedPosters = [];
 const topicColors = ["topic-1","topic-2","topic-3","topic-4","topic-5"];
 
-async function init() {
-  const pid = new URLSearchParams(window.location.search).get("id");
-  if (!pid) { showError("Identifiant manquant", "Scannez votre QR code personnel."); return; }
+// Récupère l'ID participant depuis l'URL une seule fois
+const PARTICIPANT_ID = new URLSearchParams(window.location.search).get("id");
 
+async function init() {
+  if (!PARTICIPANT_ID) {
+    showError("Identifiant manquant", "Scannez votre QR code personnel.");
+    return;
+  }
+
+  // Charger assignments.json
   try {
     const res = await fetch(DATA_URL);
     if (!res.ok) throw new Error();
     data = await res.json();
-  } catch { showError("Fichier introuvable", "Impossible de charger assignments.json."); return; }
+  } catch {
+    showError("Fichier introuvable", "Impossible de charger assignments.json.");
+    return;
+  }
 
-  participant = data.participants[pid];
-  if (!participant) { showError("Participant inconnu", `ID "${pid}" introuvable.`); return; }
+  // Trouver le participant — les IDs sont des strings
+  participant = data.participants[String(PARTICIPANT_ID)];
+  if (!participant) {
+    showError("Participant inconnu", `ID "${PARTICIPANT_ID}" introuvable.`);
+    return;
+  }
 
-  assignedPosters = participant.assignedPosters.map(id => data.posters[id]).filter(Boolean);
+  // Récupérer les posters assignés — forcer les IDs en string
+  assignedPosters = participant.assignedPosters
+    .map(id => data.posters[String(id)])
+    .filter(Boolean);
 
-  const saved = localStorage.getItem("ratings_" + pid);
+  // Charger notes sauvegardées localement
+  const saved = localStorage.getItem("ratings_" + PARTICIPANT_ID);
   if (saved) try { ratings = JSON.parse(saved); } catch {}
 
   // Vérifier si déjà soumis côté serveur
   try {
-    const st = await fetch(`${API_URL}/api/status/${pid}`);
+    const st = await fetch(`${API_URL}/api/status/${PARTICIPANT_ID}`);
     const status = await st.json();
     if (status.submitted) {
-      renderAll(pid);
+      renderParticipant();
+      renderPosters();
+      updateProgress();
+      document.getElementById("state-screen").style.display = "none";
+      document.getElementById("main").style.display = "block";
       document.getElementById("already-banner").style.display = "block";
       document.getElementById("submit-section").style.display = "none";
       document.getElementById("done-screen").style.display = "block";
       return;
     }
-  } catch {}
+  } catch (e) {
+    console.warn("Impossible de vérifier le statut serveur :", e);
+  }
 
-  renderAll(pid);
-}
-
-function renderAll(pid) {
   renderParticipant();
   renderPosters();
   updateProgress();
@@ -186,96 +204,139 @@ function renderAll(pid) {
 }
 
 function renderParticipant() {
-  const initials = participant.name.split(" ").map(w=>w[0]).join("").slice(0,2).toUpperCase();
+  const initials = participant.name.split(" ").map(w => w[0]).join("").slice(0, 2).toUpperCase();
   document.getElementById("avatar").textContent = initials;
   document.getElementById("participant-name").textContent = participant.name;
   const badge = document.getElementById("topic-badge");
   badge.textContent = "Topic " + participant.topic;
-  badge.className = "topic-badge " + (topicColors[parseInt(participant.topic)-1] || "topic-1");
+  badge.className = "topic-badge " + (topicColors[parseInt(participant.topic) - 1] || "topic-1");
 }
 
 function renderPosters() {
   const list = document.getElementById("posters-list");
   list.innerHTML = "";
+
   assignedPosters.forEach((poster, i) => {
-    const isOut = poster.topic !== participant.topic;
-    const cur = ratings[poster.id] || {};
+    const posterId = String(poster.id); // toujours string
+    const isOut = String(poster.topic) !== String(participant.topic);
+    const cur = ratings[posterId] || {};
     const scored = cur.score > 0;
+
     const card = document.createElement("div");
     card.className = "poster-card" + (scored ? " rated" : "");
-    card.id = "card-" + poster.id;
+    card.id = "card-" + posterId;
     card.innerHTML = `
       <div class="poster-header">
-        <div class="poster-num">${i+1}</div>
+        <div class="poster-num">${i + 1}</div>
         <div>
           <div class="poster-title">${poster.title}</div>
           <div class="poster-meta">
-            <span>Poster #${poster.id}</span><span>·</span><span>Topic ${poster.topic}</span>
+            <span>Poster #${posterId}</span><span>·</span><span>Topic ${poster.topic}</span>
             ${isOut ? '<span class="out-badge">Hors votre topic</span>' : ''}
             ${poster.presenter ? `<span>· ${poster.presenter}</span>` : ''}
           </div>
         </div>
       </div>
       <div class="rating-area">
-        <div class="rating-label">Votre note (1 à 5)</div>
-        <div class="stars" id="stars-${poster.id}">
-          ${[1,2,3,4,5].map(n=>`<button class="star-btn ${cur.score>=n?'active':''}" onclick="setRating('${poster.id}',${n})">${n}</button>`).join("")}
+        <div class="rating-label">Choisissez une note de 1 à 5, puis cliquez Enregistrer</div>
+        <div class="stars" id="stars-${posterId}">
+          ${[1,2,3,4,5].map(n => `
+            <button class="star-btn ${cur.score >= n ? 'active' : ''}"
+              onclick="setRating('${posterId}', ${n})">${n}</button>
+          `).join("")}
         </div>
-        <textarea class="comment-input" id="comment-${poster.id}" placeholder="Commentaire libre (optionnel)…" onchange="saveComment('${poster.id}',this.value)">${cur.comment||""}</textarea>
-        <button class="save-btn" id="save-${poster.id}" onclick="saveRating('${poster.id}')" ${scored?'':'disabled'}>
-          ${scored?'✓ Note enregistrée':'Enregistrer la note'}
+        <textarea class="comment-input" id="comment-${posterId}"
+          placeholder="Commentaire libre (optionnel)…"
+          oninput="saveComment('${posterId}', this.value)">${cur.comment || ""}</textarea>
+        <button class="save-btn ${scored ? 'saved' : ''}" id="save-${posterId}"
+          onclick="saveRating('${posterId}')" ${scored ? '' : 'disabled'}>
+          ${scored ? '✓ Note enregistrée' : 'Enregistrer la note'}
         </button>
-        <div class="saved-chip ${scored?'visible':''}" id="chip-${poster.id}">✓ Enregistré</div>
+        ${!scored ? '<p class="hint">👆 Cliquez un chiffre ci-dessus pour activer ce bouton</p>' : ''}
       </div>`;
     list.appendChild(card);
   });
 }
 
-function setRating(pid, score) {
-  if (!ratings[pid]) ratings[pid] = {};
-  ratings[pid].score = score;
-  document.querySelectorAll(`#stars-${pid} .star-btn`).forEach((b,i) => b.classList.toggle("active", i<score));
-  const btn = document.getElementById("save-"+pid);
-  if (btn) { btn.disabled = false; btn.textContent = "Enregistrer la note"; }
+// Appelé quand on clique sur un chiffre (1-5)
+function setRating(posterId, score) {
+  posterId = String(posterId);
+  if (!ratings[posterId]) ratings[posterId] = {};
+  ratings[posterId].score = score;
+
+  // Mettre à jour visuellement les boutons
+  document.querySelectorAll(`#stars-${posterId} .star-btn`)
+    .forEach((btn, i) => btn.classList.toggle("active", i < score));
+
+  // Activer le bouton Enregistrer
+  const saveBtn = document.getElementById("save-" + posterId);
+  if (saveBtn) {
+    saveBtn.disabled = false;
+    saveBtn.textContent = "Enregistrer la note";
+    saveBtn.classList.remove("saved");
+  }
+
+  // Supprimer le hint
+  const card = document.getElementById("card-" + posterId);
+  const hint = card?.querySelector(".hint");
+  if (hint) hint.remove();
 }
 
-function saveComment(pid, val) {
-  if (!ratings[pid]) ratings[pid] = {};
-  ratings[pid].comment = val;
+// Appelé quand on tape dans le commentaire
+function saveComment(posterId, val) {
+  posterId = String(posterId);
+  if (!ratings[posterId]) ratings[posterId] = {};
+  ratings[posterId].comment = val;
 }
 
+// Appelé quand on clique "Enregistrer la note"
 function saveRating(posterId) {
-  const pid = new URLSearchParams(window.location.search).get("id");
-  if (!ratings[posterId]?.score) return;
-  localStorage.setItem("ratings_"+pid, JSON.stringify(ratings));
-  document.getElementById("card-"+posterId)?.classList.add("rated");
-  const btn = document.getElementById("save-"+posterId);
-  if (btn) { btn.textContent = "✓ Note enregistrée"; btn.disabled = true; }
-  document.getElementById("chip-"+posterId)?.classList.add("visible");
+  posterId = String(posterId);
+  if (!ratings[posterId] || !ratings[posterId].score) return;
+
+  // Sauvegarder dans localStorage
+  localStorage.setItem("ratings_" + PARTICIPANT_ID, JSON.stringify(ratings));
+
+  // Mettre à jour l'UI
+  document.getElementById("card-" + posterId)?.classList.add("rated");
+  const btn = document.getElementById("save-" + posterId);
+  if (btn) {
+    btn.textContent = "✓ Note enregistrée";
+    btn.disabled = true;
+    btn.classList.add("saved");
+  }
+
   updateProgress();
 }
 
 function updateProgress() {
-  const n = assignedPosters.filter(p => ratings[p.id]?.score > 0).length;
+  const n = assignedPosters.filter(p => {
+    const r = ratings[String(p.id)];
+    return r && r.score > 0;
+  }).length;
+
   document.getElementById("rated-count").textContent = n;
-  document.getElementById("progress-bar").style.width = ((n/assignedPosters.length)*100)+"%";
-  const btn = document.getElementById("submit-btn");
-  if (btn) btn.disabled = n < assignedPosters.length;
+  document.getElementById("progress-bar").style.width = ((n / assignedPosters.length) * 100) + "%";
+
+  const submitBtn = document.getElementById("submit-btn");
+  if (submitBtn) submitBtn.disabled = n < assignedPosters.length;
 }
 
 async function submitAll() {
-  const pid = new URLSearchParams(window.location.search).get("id");
   const btn = document.getElementById("submit-btn");
   btn.disabled = true;
   document.getElementById("sending-overlay").classList.add("active");
 
   const payload = {
-    participantId: pid, participantName: participant.name,
+    participantId: PARTICIPANT_ID,
+    participantName: participant.name,
     participantTopic: participant.topic,
     timestamp: new Date().toISOString(),
     ratings: Object.entries(ratings).map(([posterId, r]) => ({
-      posterId, posterTitle: data.posters[posterId]?.title || "",
-      score: r.score, comment: r.comment || ""
+      posterId: String(posterId),
+      posterTitle: data.posters[String(posterId)]?.title || "",
+      score: r.score,
+      comment: r.comment || ""
     }))
   };
 
@@ -285,12 +346,15 @@ async function submitAll() {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(payload)
     });
-    if (!res.ok) throw new Error();
-    localStorage.setItem("submitted_"+pid, "true");
+    if (!res.ok) throw new Error("Erreur serveur " + res.status);
+
+    localStorage.setItem("submitted_" + PARTICIPANT_ID, "true");
     document.getElementById("sending-overlay").classList.remove("active");
     document.getElementById("submit-section").style.display = "none";
     document.getElementById("done-screen").style.display = "block";
-  } catch {
+
+  } catch (err) {
+    console.error(err);
     document.getElementById("sending-overlay").classList.remove("active");
     btn.disabled = false;
     btn.textContent = "⚠ Réessayer — Soumettre mes évaluations";
